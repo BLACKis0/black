@@ -1,0 +1,28 @@
+#log {
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	background-color: white;
+	display: flex;
+}
+
+#log div {
+	margin: 20% auto;
+}
+
+#img {
+	height: 128px;
+	width: 128px;
+	background-color: black;
+}
+
+#boty {
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+#boty > img {
+	margin: 0 auto;
+}
